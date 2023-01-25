@@ -1,1 +1,2 @@
 # Student-Management-Web-App
+Here I created an Reactjs application that aims to connects an sql server database and performs CRUD operation which means that the application allows us to create new students to read the list of students from the database to update the student's data and also to soft delete student data which means which mean on deleting a student, it should disappear from the View screen, however, should be present in the DB records. Also we can search the student by there name.
